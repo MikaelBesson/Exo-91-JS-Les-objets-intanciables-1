@@ -4,7 +4,8 @@
 1. Créez un objet **Personne** à l'aide d'une fonction constructeur.
 2. Ajoutez des propriétés, par exemple : nom, prenom, âge, sexe...
 3. Créez au moins deux méthodes, elles porteront le nom de votre choix.
-4. La **première méthode** doit retourner un texte contenant toutes les propriétés que vous avez définies
+4. La **première méthode** doit retourner un texte contenant toutes les propriétés
+   que vous avez définies
    Exemple : "Ma personne s'appelle nom prenom, elle a âge et est de sexe sexe".
 5. La **deuxième méthode** doit modifier deux propriétés de l'objet Personne.  
 
